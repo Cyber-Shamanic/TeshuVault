@@ -359,7 +359,7 @@ img {
 
 .hero-content {
   width: min(650px, 100%);
-  margin-inline-start: auto;
+  /* margin-inline-start: auto; */
   color: #fffaf0;
 }
 
