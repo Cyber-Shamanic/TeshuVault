@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "אם המאגר סייע לכם, ניתן לצטט אותו כך."
+title: "TeshuVault — אוצר התשובה השלמה"
+version: 0.0.1
+date-released: 2026-07-26
+authors:
+  - family-names: "Yakubov"
+    given-names: "Leon"
+    alias: "AnLoMinus / Cyber Shamanic"
+    email: "cybershamanic@gmail.com"
+repository-code: "https://github.com/Cyber-Shamanic/TeshuVault"
+license: "MIT"

@@ -1,0 +1,18 @@
+{
+  "name": "אוצר התשובה השלמה — TeshuVault",
+  "short_name": "TeshuVault",
+  "description": "40 פרשנויות ומסלול מעשי לתשובה שלמה",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070b17",
+  "theme_color": "#070b17",
+  "icons": [
+    {
+      "src": "assets/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
